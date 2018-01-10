@@ -24,7 +24,7 @@ public class PersonRunnerTest {
 		PersonRunner cut = new PersonRunner(null);
 		cut.getAgeCategory(1000);
 	}
-
+//hellooooooooooo
 	@Test
 	public void testGetAverage() {
 
